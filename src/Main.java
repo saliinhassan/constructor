@@ -1,5 +1,5 @@
 void main() {
-    postgraduate s1=new postgraduate("Salah mohamud",3.9,"Java");
+    postgraduate s1=new postgraduate("Saliin ",3.9,"Java");
     System.out.println(s1.card());
 
 }
